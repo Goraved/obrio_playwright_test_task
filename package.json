@@ -1,0 +1,26 @@
+{
+  "name": "playwright_practice",
+  "version": "1.0.0",
+  "description": "Just a [Playwright](https://github.com/microsoft/playwright) tool practice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goraved/playwright_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Goraved/playwright_practice/issues"
+  },
+  "homepage": "https://github.com/Goraved/playwright_practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
